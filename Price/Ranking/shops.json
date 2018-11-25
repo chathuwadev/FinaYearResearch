@@ -1,0 +1,132 @@
+{
+    "hits": [
+      {
+        "lat": 6.894555,
+        "lng": 80.862282,
+        "name": "කුමාර ස්ටෝස්",
+        "feedback": 101,
+        "availability": "no",
+        "objectID": "172975611",
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 5,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "lat": 6.897121,
+        "lng": 80.869868,
+        "name": "KM_Chemix",
+        "feedback": 67,
+        "availability": "yes",
+        "objectID": "172975601",
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 4,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "lat": 6.8974,
+        "lng": 80.869924,
+        "name": "නුවන් සහ පුත්‍රයෝ",
+        "feedback": 189,
+        "availability": "no",
+        "objectID": "172975591",
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 3,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "lat": 6.892547,
+        "lng": 80.874925,
+        "name": "ගැමුනු රසයනික පොහොර බෙදාහරින්නෝ",
+        "feedback": 98,
+        "availability": "yes",
+        "objectID": "172975581",
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 2,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "lat": 6.987233,
+        "lng": 80.870036,
+        "name": "WelimadaStores",
+        "feedback": 156,
+        "availability": "yes",
+        "objectID": "172975571",
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 1,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "lat": 6.89528,
+        "lng": 80.864642,
+        "name": "ABC",
+        "feedback": 123,
+        "availability": "no",
+        "objectID": "172975561",
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 0,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      }
+    ],
+    "nbHits": 6,
+    "page": 0,
+    "nbPages": 1,
+    "hitsPerPage": 10,
+    "processingTimeMS": 1,
+    "exhaustiveNbHits": true,
+    "query": "",
+    "params": "query=&hitsPerPage=10&page=0&analytics=false&attributesToRetrieve=*&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&getRankingInfo=true&facets=%5B%5D&tagFilters=",
+    "index": "iFarmer",
+    "serverUsed": "c1-in-1.algolia.net",
+    "indexUsed": "iFarmer",
+    "parsedQuery": "",
+    "timeoutCounts": false,
+    "timeoutHits": false
+  }
